@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 067ced2f25346b247897a423491a6d43
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162432
+  packageName: Script Templates
+  packageVersion: 1.1
+  assetPath: Assets/Plugins/Ilumisoft/ScriptTemplates/Editor/Templates/Internal/MenuItemTemplate.txt
+  uploadId: 752339

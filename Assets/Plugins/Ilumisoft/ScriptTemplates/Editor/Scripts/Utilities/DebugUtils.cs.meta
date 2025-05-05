@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 417a48d4875ba194c8eeab40168629ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162432
+  packageName: Script Templates
+  packageVersion: 1.1
+  assetPath: Assets/Plugins/Ilumisoft/ScriptTemplates/Editor/Scripts/Utilities/DebugUtils.cs
+  uploadId: 752339

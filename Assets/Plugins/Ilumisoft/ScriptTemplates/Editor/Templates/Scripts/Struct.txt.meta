@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fe10823426b2414d840477f35657040
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162432
+  packageName: Script Templates
+  packageVersion: 1.1
+  assetPath: Assets/Plugins/Ilumisoft/ScriptTemplates/Editor/Templates/Scripts/Struct.txt
+  uploadId: 752339

@@ -1,0 +1,12 @@
+using UnityEngine;
+using UnityEditor;
+ 
+public class #SCRIPTNAME# : EditorWindow 
+{
+    [MenuItem("Window/#SCRIPTNAME#")]
+    static void Init()
+    {
+        #SCRIPTNAME# window = (#SCRIPTNAME#)EditorWindow.GetWindow(typeof(#SCRIPTNAME#));
+        window.Show();
+    }
+}

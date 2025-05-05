@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32304199560340d47aeb5b4d5a950c95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162432
+  packageName: Script Templates
+  packageVersion: 1.1
+  assetPath: Assets/Plugins/Ilumisoft/ScriptTemplates/Editor/Scripts/Factories/ScriptFactory.cs
+  uploadId: 752339

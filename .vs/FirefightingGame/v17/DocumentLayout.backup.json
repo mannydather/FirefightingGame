@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GITHUB\\FirefightingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|C:\\GITHUB\\FirefightingGame\\assets\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|solutionrelative:assets\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|c:\\github\\firefightinggame\\assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\exampleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|solutionrelative:assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\exampleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|c:\\github\\firefightinggame\\assets\\kinematiccharactercontroller\\core\\kinematiccharactermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD9794E-00CC-DB47-8CCF-5CAF5BFE2DC1}|Assembly-CSharp.csproj|solutionrelative:assets\\kinematiccharactercontroller\\core\\kinematiccharactermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamplePlayer.cs",
+              "DocumentMoniker": "C:\\GITHUB\\FirefightingGame\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "ToolTip": "C:\\GITHUB\\FirefightingGame\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "RelativeToolTip": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:10:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KinematicCharacterMotor.cs",
+              "DocumentMoniker": "C:\\GITHUB\\FirefightingGame\\Assets\\KinematicCharacterController\\Core\\KinematicCharacterMotor.cs",
+              "RelativeDocumentMoniker": "Assets\\KinematicCharacterController\\Core\\KinematicCharacterMotor.cs",
+              "ToolTip": "C:\\GITHUB\\FirefightingGame\\Assets\\KinematicCharacterController\\Core\\KinematicCharacterMotor.cs",
+              "RelativeToolTip": "Assets\\KinematicCharacterController\\Core\\KinematicCharacterMotor.cs",
+              "ViewState": "AgIAALoEAAAAAAAAAAAQwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:05:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterSelector.cs",
+              "DocumentMoniker": "C:\\GITHUB\\FirefightingGame\\Assets\\CharacterSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterSelector.cs",
+              "ToolTip": "C:\\GITHUB\\FirefightingGame\\Assets\\CharacterSelector.cs",
+              "RelativeToolTip": "Assets\\CharacterSelector.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwDwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:50:08.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2209ab2503372cd458ddd0d8219ab469
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162432
+  packageName: Script Templates
+  packageVersion: 1.1
+  assetPath: Assets/Plugins/Ilumisoft/ScriptTemplates/Editor/Templates/Scripts/ScriptableObject.txt
+  uploadId: 752339
